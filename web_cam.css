@@ -1,0 +1,20 @@
+body{
+    background-image: url('mars_5.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+.hello{
+    font-family: verdana;
+    font-size: 30px;  
+    font-weight:bolder; 
+    padding-left: 200px;
+    color:rgb(245, 248, 250);
+    
+}
+.data{
+    font-family: verdana;
+    font-size: 30px;   
+    font-weight:bolder;  
+    padding-left:500px;
+    color:rgb(245, 248, 250);
+}
